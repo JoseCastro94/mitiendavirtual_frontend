@@ -1,0 +1,73 @@
+[
+    {
+        "id": 1001,
+        "idPedido": 385,
+        "idProducto": 23,
+        "cantidad": 2.00,
+        "precioUnitario": 89.00,
+        "subTotal": 178.00,
+        "producto": {
+            "id": 23,
+            "idCategoria": 2,
+            "idMarca": 1,
+            "nombre": "POLO DOODLE BADGE",
+            "precio": 89.00,
+            "categoria": {
+                "id": 2,
+                "nombre": "POLOS"
+            },
+            "marca": {
+                "id": 2,
+                "nombre": "ADIDAS"
+            }
+        }
+    },
+    {
+        "id": 1002,
+        "idPedido": 385,
+        "idProducto": 23,
+        "cantidad": 1.00,
+        "precioUnitario": 249.00,
+        "subTotal": 249.00,
+        "producto": {
+            "id": 31,
+            "idCategoria": 2,
+            "idMarca": 1,
+            "nombre": "POLERA BELLISTA",
+            "precio": 179.00,
+            "categoria": {
+                "id": 2,
+                "nombre": "ROPA"
+            },
+            "marca": {
+                "id": 2,
+                "nombre": "NIKE"
+            }
+        }
+    },
+    {
+        "id": 1003,
+        "idPedido": 385,
+        "idProducto": 23,
+        "cantidad": 1.00,
+        "precioUnitario": 69.00,
+        "subTotal": 69.00,
+        "producto": {
+            "id": 23,
+            "idCategoria": 2,
+            "idMarca": 1,
+            "nombre": "GORRA BASEBALL",
+            "precio": 179.00,
+            "categoria": {
+                "id": 2,
+                "nombre": "ACCESORIOS"
+            },
+            "marca": {
+                "id": 2,
+                "nombre": "ADIDAS"
+            }
+        }
+    }
+ ]
+ 
+ 

@@ -1,0 +1,28 @@
+[
+    {
+        "id": 3,
+        "nombre": "ZAPATILLAS",
+        "activo": true
+    },
+    {
+        "id": 5,
+        "nombre": "POLOS",
+        "activo": true
+    },
+    {
+        "id": 7,
+        "nombre": "CASACAS",
+        "activo": true
+    },
+    {
+        "id": 10,
+        "nombre": "BUZOS",
+        "activo": true
+    },
+    {
+        "id": 12,
+        "nombre": "ACCESORIOS",
+        "activo": true
+    }
+ ]
+ 
